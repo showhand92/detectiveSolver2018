@@ -1,6 +1,7 @@
 # DetectiveSolver2018
 This code solves the following deduction problem
-run the code with
+run the code as below:
 ```
-python main.py§§
+python main.p
 ```
+![Image](Dragster.jpg)
