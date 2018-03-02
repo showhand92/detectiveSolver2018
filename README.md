@@ -1,7 +1,8 @@
 # DetectiveSolver2018
-This code solves the following deduction problem
+This code solves the deduction problem,
 run the code as below:
 ```
 python main.p
 ```
-![Image](Dragster.jpg)
+See the problem below:
+![Image](question.jpg)
